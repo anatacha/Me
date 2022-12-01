@@ -1,0 +1,19 @@
+1.กลับมาrun project ใช้ yarn dev
+2.libary ที่สำคัญ หรือ npm ที่สำคัญ
+-ตอนแรก npm install ทำครั้งเดียว
+-npm install bootstrap
+-npm install react-bootstrap bootstrap
+-npm install react-router-dom
+-npm i node-sass
+-npm install framer-motion
+-npm i react-scripts
+-npm install web-vitals //จัดระเบียบจอ
+-npm install sass-loader sass webpack --save-dev
+
+import
+-import 'bootstrap/dist/css/bootstrap.min.css';
+-import 'bootstrap/scss/mixins/_breakpoints.scss';
+
+start project npm start
+
+normalize.cssสำคัญถ้าเอาไปทำprojectอื่นต่อให้โหลดด้วย
